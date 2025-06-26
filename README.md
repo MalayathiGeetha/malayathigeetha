@@ -68,7 +68,7 @@ Let's connect and explore together..
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/malayathi-geetha-ab8544286)
 - 📧 Email: malayathigeetha@gmail.com
-- 💻 GitHub: [@your-username](https://github.com/your-username)
+- 💻 GitHub: [@your-username](https://github.com/malayathigeetha)
 
 ---
 
