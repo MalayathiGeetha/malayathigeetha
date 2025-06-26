@@ -91,12 +91,12 @@ Let's connect and explore together..
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Geetha's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MalayathiGeetha&show_icons=true&theme=radical" alt="Geetha's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalayathiGeetha&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MalayathiGeetha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
