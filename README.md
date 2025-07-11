@@ -34,6 +34,12 @@ Let's connect and explore together..
 - 🚆 **Train Reservation System (Frontend Only)**  
   A responsive frontend app using `React`, `TailwindCSS`, and `localStorage` to simulate train booking, search, and ticket confirmation — all without a backend.
 
+- 💼 **Job Portal Management System**  
+  Full-stack web app using `React`, `Spring Boot`, and `MySQL` to manage job listings, applications, secure OTP login, and role-based dashboards for applicants and employers.
+
+- 🤖 **CryptoGPT – AI Chatbot for Crypto Market**  
+  AI-powered chatbot built with `Next.js`, `Spring Boot`,`Particles` and `GEMINI API` that delivers real-time cryptocurrency insights via a smart conversational UI.
+
 
 ## 🌱 Currently Learning
 
