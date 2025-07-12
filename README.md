@@ -40,7 +40,8 @@ Let's connect and explore together..
 - 🤖 **CryptoGPT – AI Chatbot for Crypto Market**  
   AI-powered chatbot built with `Next.js`, `Spring Boot`,`Particles` and `GEMINI API` that delivers real-time cryptocurrency insights via a smart conversational UI.
 
-
+- 🍽️ **Cook Share – Recipe Sharing Platform**  
+  Social recipe-sharing app developed with `React with Vite`, `Javascript`, `SpringBoot`, and `MySQL` featuring user authentication, image uploads, and interactive recipe feeds.
 ## 🌱 Currently Learning
 
 - ☕ Spring Security, JWT, and RESTful API best practices  
