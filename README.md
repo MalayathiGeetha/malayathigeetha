@@ -42,11 +42,18 @@ Let's connect and explore together..
 
 - 🍽️ **Cook Share – Recipe Sharing Platform**  
   Social recipe-sharing app developed with `React with Vite`, `Javascript`, `SpringBoot`, and `MySQL` featuring user authentication, image uploads, and interactive recipe feeds.
+  
+- 🏎️ **GoGearStack – Car Rental Web App (Full Stack)**  
+  A full-stack car rental platform built with `React`, `TailwindCSS`, `Node.js`, and `Express.js` for browsing, booking, and managing cars. Backend powered by `MongoDB` and secure JWT-based auth.  
+  🔗 [Live Demo](https://car-rental-frontend-one-mu.vercel.app) | 📦 [GitHub Repo](https://github.com/malayathigeetha/GoGearStack)
+
+
+
+  
 ## 🌱 Currently Learning
 
-- ☕ Spring Security, JWT, and RESTful API best practices  
-- 📲 React Native for mobile-first experiences  
-- 🧠 Deep Learning model optimization & deployment  
+- ☕ Spring Security, JWT, and RESTful API best practices
+- 📲 React Native for mobile-first experiences   
 - 🌐 Advanced MERN Stack techniques  
 - ☁️ Docker + Cloud deployment on AWS
 
