@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Geetha! 👋</h1>
 <p align="center">
-  💻 Java & MERN Full-Stack Developer | 🧠 Deep Learning Enthusiast | 🚀 Project Builder | 🧠 Problem Solver
+  💻 Java & MERN Full-Stack Developer |  🚀 Project Builder | 🧠 Problem Solver
 </p>
 
 ---
