@@ -18,8 +18,11 @@ Let's connect and explore together..
 ## 🚧 Currently Working On
 
 - ⚙️ **Java Full-Stack Projects** using `Spring Boot`, `JSP/Servlets`, `Hibernate`, and `MySQL/PostgreSQL`
+- 📱 **Cross-Platform Mobile Apps** using `React Native` for seamless Android & iOS experiences
 - 🧠 **Deep Learning Projects** focused on model building and real-world computer vision applications
 - 🌐 **MERN Stack Projects** (`MongoDB`, `Express.js`, `React`, `Node.js`) for responsive web platforms
+- ⚡ **Full-Stack Projects** using `React`, `Supabase`, `TypeScript`, and `FastAPI` for cloud-native, scalable applications
+
 
 ---
 
@@ -54,6 +57,7 @@ Let's connect and explore together..
 
 - ☕ Spring Security, JWT, and RESTful API best practices
 - 📲 React Native for mobile-first experiences   
+- ⚡ Supabase + FastAPI for modern backend services  
 - 🌐 Advanced MERN Stack techniques  
 - ☁️ Docker + Cloud deployment on AWS
 
@@ -61,7 +65,8 @@ Let's connect and explore together..
 
 ## 🤝 Open to Collaborate On
 
-- Full-stack apps (Java or MERN) with modern UIs  
+- Full-stack apps (Java, MERN, or Supabase/FastAPI) with modern UIs  
+- Cross-platform mobile apps using React Native  
 - Developer tools, productivity apps, or Chrome extensions  
 - Ed-tech, social platforms, or management systems  
 - Hackathon-ready ideas and scalable prototypes
