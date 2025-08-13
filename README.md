@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Geetha! 👋</h1>
 <p align="center">
-  💻 Java & MERN Full-Stack Developer |  🚀 Project Builder | 🧠 Problem Solver
+  💻 Java Developer | Python Developer | MERN Full-Stack Developer |  🚀 Project Builder | 🧠 Problem Solver
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 I'm a dedicated full-stack developer who enjoys crafting scalable, clean, and user-friendly applications.  
-From Java backends to modern React-based UIs and intelligent deep learning tools — I love building real-world solutions that make a difference.
+From Java backends,python backends to modern React-based UIs and intelligent deep learning tools — I love building real-world solutions that make a difference.
 Let's connect and explore together..
 
 ---
@@ -65,7 +65,7 @@ Let's connect and explore together..
 
 ## 🤝 Open to Collaborate On
 
-- Full-stack apps (Java, MERN, or Supabase/FastAPI) with modern UIs  
+- Full-stack apps (Java,Python, MERN, or Supabase/FastAPI) with modern UIs  
 - Cross-platform mobile apps using React Native  
 - Developer tools, productivity apps, or Chrome extensions  
 - Ed-tech, social platforms, or management systems  
@@ -96,6 +96,8 @@ Let's connect and explore together..
 ### 🛠️ Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/python-original.svg" width="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/django-original.svg" width="40" alt="django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
