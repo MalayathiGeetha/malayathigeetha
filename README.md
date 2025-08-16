@@ -15,7 +15,7 @@ Let's connect and explore together..
 
 ---
 
-## 🚧 Currently Working On
+  ## 🚧 Currently Working On
 
 - ⚙️ **Java Full-Stack Projects** using `Spring Boot`, `JSP/Servlets`, `Hibernate`, and `MySQL/PostgreSQL`
 - 📱 **Cross-Platform Mobile Apps** using `React Native` for seamless Android & iOS experiences
@@ -96,8 +96,8 @@ Let's connect and explore together..
 ### 🛠️ Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/python-original.svg" width="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/django-original.svg" width="40" alt="django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/django-original.svg" width="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
@@ -110,6 +110,7 @@ Let's connect and explore together..
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
@@ -125,6 +126,7 @@ Let's connect and explore together..
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stripe.svg" width="40" alt="Stripe"/>
 </p>
+
 
 ### 🤖 AI / ML
 <p align="left">
