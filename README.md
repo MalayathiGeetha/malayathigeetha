@@ -50,6 +50,9 @@ Let's connect and explore together..
   A full-stack car rental platform built with `React`, `TailwindCSS`, `Node.js`, and `Express.js` for browsing, booking, and managing cars. Backend powered by `MongoDB` and secure JWT-based auth.  
   🔗 [Live Demo](https://car-rental-frontend-one-mu.vercel.app) | 📦 [GitHub Repo](https://github.com/malayathigeetha/GoGearStack)
 
+- 🛒 **GreatKart – Ecommerce Platform**  
+  Full-stack Ecommerce project built with `Django`, `React.js`, and `Bootstrap`.  
+  🔹 Features: Product browsing, cart management, user authentication, order handling, and **secure PayPal payment integration**.  
 
 
   
