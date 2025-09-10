@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Geetha! 👋</h1>
 <p align="center">
   💻 Java Developer | Python Developer | MERN Full-Stack Developer |  🚀 Project Builder | 🧠 Problem Solver
@@ -10,19 +8,18 @@
 ## 👩‍💻 About Me
 
 I'm a dedicated full-stack developer who enjoys crafting scalable, clean, and user-friendly applications.  
-From Java backends,python backends to modern React-based UIs and intelligent deep learning tools — I love building real-world solutions that make a difference.
+From Java backends, Python backends to modern React-based UIs and intelligent deep learning tools — I love building real-world solutions that make a difference.  
 Let's connect and explore together..
 
 ---
 
-  ## 🚧 Currently Working On
+## 🚧 Currently Working On
 
 - ⚙️ **Java Full-Stack Projects** using `Spring Boot`, `JSP/Servlets`, `Hibernate`, and `MySQL/PostgreSQL`
 - 📱 **Cross-Platform Mobile Apps** using `React Native` for seamless Android & iOS experiences
 - 🧠 **Deep Learning Projects** focused on model building and real-world computer vision applications
 - 🌐 **MERN Stack Projects** (`MongoDB`, `Express.js`, `React`, `Node.js`) for responsive web platforms
 - ⚡ **Full-Stack Projects** using `React`, `Supabase`, `TypeScript`, and `FastAPI` for cloud-native, scalable applications
-
 
 ---
 
@@ -54,8 +51,16 @@ Let's connect and explore together..
   Full-stack Ecommerce project built with `Django`, `React.js`, and `Bootstrap`.  
   🔹 Features: Product browsing, cart management, user authentication, order handling, and **secure PayPal payment integration**.  
 
+- 🩺 **Medical Chatbot (RAG + GPT-4o)**  
+  AI-powered medical question-answering system using PDFs as knowledge sources.  
+  🔹 Features:
+  - Loads medical PDFs, splits into chunks, and stores embeddings in **Pinecone vector DB**.
+  - Uses **HuggingFace embeddings** for semantic search.
+  - RAG pipeline with **GPT-4o** to answer questions concisely and accurately.
+  - Dynamically adds new knowledge to the database. 
 
-  
+---
+
 ## 🌱 Currently Learning
 
 - ☕ Spring Security, JWT, and RESTful API best practices
@@ -68,7 +73,7 @@ Let's connect and explore together..
 
 ## 🤝 Open to Collaborate On
 
-- Full-stack apps (Java,Python, MERN, or Supabase/FastAPI) with modern UIs  
+- Full-stack apps (Java, Python, MERN, or Supabase/FastAPI) with modern UIs  
 - Cross-platform mobile apps using React Native  
 - Developer tools, productivity apps, or Chrome extensions  
 - Ed-tech, social platforms, or management systems  
@@ -90,72 +95,4 @@ Let's connect and explore together..
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/malayathi-geetha-ab8544286)
 - 📧 Email: malayathigeetha@gmail.com
-- 💻 GitHub: (https://github.com/malayathigeetha)
-
----
-
-## 💻 Tech Stack
-
-### 🛠️ Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="40" alt="Hibernate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="JSP/Servlets"/>
-</p>
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-</p>
-
-### 🗄️ Database & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stripe.svg" width="40" alt="Stripe"/>
-</p>
-
-
-### 🤖 AI / ML
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="40" alt="Kaggle"/>
-</p>
-
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalayathiGeetha&show_icons=true&theme=radical" alt="Geetha's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalayathiGeetha&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MalayathiGeetha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
----
-
-<p align="center">
-  🚀 Let’s code, build, and innovate — together!
-</p>
+- 💻 GitHub: [MalayathiGeetha](https://github.com/malayathigeeth)
