@@ -25,6 +25,17 @@ Let's connect and explore together..
 
 ## ✅ Projects I've Built
 
+- 🧠 **Veritas AI – Verification-as-a-Service (Fact Checker AI + Agents + RAG)**  
+  Multi-agent fact verification system that checks fake news, claims, and content reliability using LLMs + Deep Learning.  
+  🔹 Features:
+  - Claim parsing, trust analysis, and source scoring
+  - Multi-agent architecture with **CrewAI + LangGraph**
+  - RAG + Vector DB powered real-time fact checking
+  - Supports images, text, URLs, and documents
+  - Fake/real evidence ranking and report generation  
+  🔧 Tech: `Python`,  `LangGraph`, `FastAPI`, `React.js`, `Deep Learning`
+
+
 - 🏥 **Hospital Management System**  
   Java + JDBC + Swing based desktop application to manage hospital workflows.
 
