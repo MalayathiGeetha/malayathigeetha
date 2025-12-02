@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Geetha! 👋</h1>
 <p align="center">
   💻 Java Developer | Python Developer | MERN Full-Stack Developer |  🚀 Project Builder | 🧠 Problem Solver
+
+  🔗 Live Portfolio: https://portfolio-psi-one-76.vercel.app/
+
 </p>
 
 ---
