@@ -27,37 +27,6 @@ Let's connect and explore together..
 ---
 
 ## ✅ Projects I've Built
-text
-<h1 align="center">Hi, I'm Geetha! 👋</h1>
-<p align="center">
-  💻 Java Developer | Python Developer | MERN Full-Stack Developer |  🚀 Project Builder | 🧠 Problem Solver | AI Explorer
-
-  🔗 Live Portfolio: [https://portfolio-psi-one-76.vercel.app/](https://portfolio-psi-one-76.vercel.app/)
-
-</p>
-
----
-
-## 👩‍💻 About Me
-
-I'm a dedicated full-stack developer who enjoys crafting scalable, clean, and user-friendly applications.  
-From Java backends, Python backends to modern React-based UIs and intelligent deep learning tools — I love building real-world solutions that make a difference.  
-Let's connect and explore together..
-
----
-
-## 🚧 Currently Working On
-
-- ⚙️ **Java Full-Stack Projects** using `Spring Boot`, `JSP/Servlets`, `Hibernate`, and `MySQL/PostgreSQL`
-- 📱 **Cross-Platform Mobile Apps** using `React Native` for seamless Android & iOS experiences
-- 🧠 **Deep Learning Projects** focused on model building and real-world computer vision applications
-- 🌐 **MERN Stack Projects** (`MongoDB`, `Express.js`, `React`, `Node.js`) for responsive web platforms
-- ⚡ **Full-Stack Projects** using `React`, `Supabase`, `TypeScript`, and `FastAPI` for cloud-native, scalable applications
-- ✨ **MailMind-AI** - **13-feature AI Email SaaS** (React + Spring Boot + Gemini/Ollama)
-
----
-
-## ✅ Projects I've Built
 
 - ✨ **MailMind-AI – AI Email Assistant** ⭐ *Latest & Greatest*  
   **Production-ready SaaS** with **13 AI features** - Generate, analyze, send real emails with multi-AI (Gemini ⚡ + Ollama 🆓).  
