@@ -35,7 +35,7 @@ Let's connect and explore together..
     `User Dashboard` | `Analytics Charts` | `Email History (Intent Filter)` | `Subject Generator`  
     `Email Summarizer` | `Thread Reply` | `Follow-up Generator` | `Safety Check` | `Advanced Mode`  
   🔹 **Tech Stack**: `React 18 + Vite + shadcn/ui`, `Spring Boot 3.x + MySQL`, `Gemini API + Ollama`, `JWT Security`
-  🔗 GitHub: https://github.com/malayathigeetha/MailMind-AI
+      🔗 GitHub: https://github.com/malayathigeetha/MailMind-AI
 
 
 
