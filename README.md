@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Geetha! 👋</h1>
 <p align="center">
-  💻 Java Developer | Python Developer | MERN Full-Stack Developer |  🚀 Project Builder | 🧠 Problem Solver | AI Explorer
+  💻 Java Developer | MERN Full-Stack Developer |  🚀 Project Builder | 🧠 Problem Solver | AI Explorer
 
   🔗 Live Portfolio: https://portfolio-psi-one-76.vercel.app/
 
@@ -34,8 +34,22 @@ Let's connect and explore together..
     `Email Generation` | `Real Gmail Delivery` | `AI Model Switcher (Gemini/Ollama/Local)` | `Intent Detection (8 categories)`  
     `User Dashboard` | `Analytics Charts` | `Email History (Intent Filter)` | `Subject Generator`  
     `Email Summarizer` | `Thread Reply` | `Follow-up Generator` | `Safety Check` | `Advanced Mode`  
-  🔹 **Tech Stack**: `React 18 + Vite + shadcn/ui`, `Spring Boot 3.x + MySQL`, `Gemini API + Ollama`, `JWT Security`  
- 
+  🔹 **Tech Stack**: `React 18 + Vite + shadcn/ui`, `Spring Boot 3.x + MySQL`, `Gemini API + Ollama`, `JWT Security`
+  🔗 GitHub: https://github.com/malayathigeetha/MailMindAI
+
+
+
+- 🏋️ **AuraFit – AI-Powered Fitness Microservices Ecosystem** ⭐ *Enterprise-Grade System*  
+  Scalable microservices platform delivering **AI-driven fitness recommendations** using secure, event-driven architecture.  
+  🔹 Highlights:  
+  - API Gateway + Eureka + Config Server with **Spring Cloud**  
+  - **Keycloak OAuth2/OIDC PKCE** authentication  
+  - **RabbitMQ** event-driven communication  
+  - AI recommendation engine for personalized fitness insights  
+  - Real-time dashboards with **MongoDB + React 19**  
+  🔧 Tech: `Java 17`, `Spring Boot 3`, `Spring Cloud`, `MongoDB`, `RabbitMQ`, `Keycloak`, `Docker`, `React 19`, `Redux Toolkit`  
+  🔗 GitHub: https://github.com/malayathigeetha/aurafit
+
   
 - 🧠 **Veritas AI – Verification-as-a-Service (Fact Checker AI + Agents + RAG)**  
   Multi-agent fact verification system that checks fake news, claims, and content reliability using LLMs + Deep Learning.  
@@ -118,4 +132,4 @@ Let's connect and explore together..
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/malayathi-geetha-ab8544286)
 - 📧 Email: malayathigeetha@gmail.com
-- 💻 GitHub: [MalayathiGeetha](https://github.com/malayathigeeth)
+- 💻 GitHub: [MalayathiGeetha](https://github.com/malayathigeetha)
