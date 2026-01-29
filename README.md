@@ -127,6 +127,16 @@ Let's connect and explore together..
 - Working with Stripe payments, Postman, and Git workflows
 
 ---
+## 📜 Certifications
+
+- **Introduction to Large Language Models (LLMs)** – IBM SkillsBuild  
+- Java Programming: Object-Oriented Design – edX  
+- SQL (Intermediate) – HackerRank  
+- Artificial Intelligence Fundamentals – IBM SkillsBuild  
+- AWS Solutions Architecture – Forage  
+- Building Virtual Agents on Google Cloud
+
+---
 
 ## 🌐 Connect With Me
 
