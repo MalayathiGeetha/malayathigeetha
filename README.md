@@ -48,7 +48,6 @@ Sophisticated conversational AI orchestrating **multiple specialized agents** to
 🔗 GitHub  
 https://github.com/MalayathiGeetha/DentalAppointment_System_Using_agents
 
----
 
 - ✨ **MailMind-AI – AI Email Assistant** ⭐  
   **Production-ready SaaS** with **13 AI features** - Generate, analyze, send real emails with multi-AI (Gemini ⚡ + Ollama 🆓).  
