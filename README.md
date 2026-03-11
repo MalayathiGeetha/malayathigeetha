@@ -26,9 +26,9 @@ Let's connect and explore together..
 
 ---
 
-## ✅ Projects I've Built
+# ✅ Projects I've Built
 
-- ### 🦷 AI Dental Appointment System — Multi-Agent AI ⭐
+### 🦷 AI Dental Appointment System — Multi-Agent AI ⭐
 
 Sophisticated conversational AI orchestrating **multiple specialized agents** to manage clinical schedules through natural language.
 
@@ -48,74 +48,154 @@ Sophisticated conversational AI orchestrating **multiple specialized agents** to
 🔗 GitHub  
 https://github.com/MalayathiGeetha/DentalAppointment_System_Using_agents
 
+---
 
-- ✨ **MailMind-AI – AI Email Assistant** ⭐  
-  **Production-ready SaaS** with **13 AI features** - Generate, analyze, send real emails with multi-AI (Gemini ⚡ + Ollama 🆓).  
-  🔹 **Core Features** (13 LIVE):  
-    `Email Generation` | `Real Gmail Delivery` | `AI Model Switcher (Gemini/Ollama/Local)` | `Intent Detection (8 categories)`  
-    `User Dashboard` | `Analytics Charts` | `Email History (Intent Filter)` | `Subject Generator`  
-    `Email Summarizer` | `Thread Reply` | `Follow-up Generator` | `Safety Check` | `Advanced Mode`  
-  🔹 **Tech Stack**: `React 18 + Vite + shadcn/ui`, `Spring Boot 3.x + MySQL`, `Gemini API + Ollama`, `JWT Security`
-           🔗 GitHub: https://github.com/malayathigeetha/MailMind-AI
+### ✨ MailMind-AI – AI Email Assistant ⭐
 
+**Production-ready SaaS** with **13 AI features** — generate, analyze, and send real emails with multi-AI (Gemini ⚡ + Ollama 🆓).
 
+🔹 **Core Features (13 LIVE)**
 
-- 🏋️ **AuraFit – AI-Powered Fitness Microservices Ecosystem** ⭐ *Enterprise-Grade System*  
-  Scalable microservices platform delivering **AI-driven fitness recommendations** using secure, event-driven architecture.  
-  🔹 Highlights:  
-  - API Gateway + Eureka + Config Server with **Spring Cloud**  
-  - **Keycloak OAuth2/OIDC PKCE** authentication  
-  - **RabbitMQ** event-driven communication  
-  - AI recommendation engine for personalized fitness insights  
-  - Real-time dashboards with **MongoDB + React 19**  
-  🔧 Tech: `Java 17`, `Spring Boot 3`, `Spring Cloud`, `MongoDB`, `RabbitMQ`, `Keycloak`, `Docker`, `React 19`, `Redux Toolkit`  
-  🔗 GitHub: https://github.com/malayathigeetha/aurafit
+- `Email Generation`
+- `Real Gmail Delivery`
+- `AI Model Switcher (Gemini/Ollama/Local)`
+- `Intent Detection (8 categories)`
+- `User Dashboard`
+- `Analytics Charts`
+- `Email History (Intent Filter)`
+- `Subject Generator`
+- `Email Summarizer`
+- `Thread Reply`
+- `Follow-up Generator`
+- `Safety Check`
+- `Advanced Mode`
 
-  
-- 🧠 **Veritas AI – Verification-as-a-Service (Fact Checker AI + Agents + RAG)**  
-  Multi-agent fact verification system that checks fake news, claims, and content reliability using LLMs + Deep Learning.  
-  🔹 Features:
-  - Claim parsing, trust analysis, and source scoring
-  - Multi-agent architecture with **CrewAI + LangGraph**
-  - RAG + Vector DB powered real-time fact checking
-  - Supports images, text, URLs, and documents
-  - Fake/real evidence ranking and report generation  
-  🔧 Tech: `Python`,  `LangGraph`, `FastAPI`, `React.js`, `Deep Learning`
+🔹 **Tech Stack**
 
+`React 18 + Vite + shadcn/ui`  
+`Spring Boot 3.x + MySQL`  
+`Gemini API + Ollama`  
+`JWT Security`
 
-- 🏥 **Hospital Management System**  
-  Java + JDBC + Swing based desktop application to manage hospital workflows.
+🔗 GitHub  
+https://github.com/malayathigeetha/MailMind-AI
 
-- 📋 **Project Management System**  
-  Web-based task and team management portal using Java Servlets, JSP, and MySQL.
+---
 
-- 🚆 **Train Reservation System (Frontend Only)**  
-  A responsive frontend app using `React`, `TailwindCSS`, and `localStorage` to simulate train booking, search, and ticket confirmation — all without a backend.
+### 🏋️ AuraFit – AI-Powered Fitness Microservices Ecosystem ⭐
 
-- 💼 **Job Portal Management System**  
-  Full-stack web app using `React`, `Spring Boot`, and `MySQL` to manage job listings, applications, secure OTP login, and role-based dashboards for applicants and employers.
+Scalable microservices platform delivering **AI-driven fitness recommendations** using secure, event-driven architecture.
 
-- 🤖 **CryptoGPT – AI Chatbot for Crypto Market**  
-  AI-powered chatbot built with `Next.js`, `Spring Boot`,`Particles` and `GEMINI API` that delivers real-time cryptocurrency insights via a smart conversational UI.
+🔹 **Highlights**
 
-- 🍽️ **Cook Share – Recipe Sharing Platform**  
-  Social recipe-sharing app developed with `React with Vite`, `Javascript`, `SpringBoot`, and `MySQL` featuring user authentication, image uploads, and interactive recipe feeds.
-  
-- 🏎️ **GoGearStack – Car Rental Web App (Full Stack)**  
-  A full-stack car rental platform built with `React`, `TailwindCSS`, `Node.js`, and `Express.js` for browsing, booking, and managing cars. Backend powered by `MongoDB` and secure JWT-based auth.  
-  🔗 [Live Demo](https://car-rental-frontend-one-mu.vercel.app) | 📦 [GitHub Repo](https://github.com/malayathigeetha/GoGearStack)
+- API Gateway + Eureka + Config Server with **Spring Cloud**
+- **Keycloak OAuth2/OIDC PKCE** authentication
+- **RabbitMQ** event-driven communication
+- AI recommendation engine for personalized fitness insights
+- Real-time dashboards with **MongoDB + React 19**
 
-- 🛒 **GreatKart – Ecommerce Platform**  
-  Full-stack Ecommerce project built with `Django`, `React.js`, and `Bootstrap`.  
-  🔹 Features: Product browsing, cart management, user authentication, order handling, and **secure PayPal payment integration**.  
+🔧 **Tech**
 
-- 🩺 **Medical Chatbot (RAG + GPT-4o)**  
-  AI-powered medical question-answering system using PDFs as knowledge sources.  
-  🔹 Features:
-  - Loads medical PDFs, splits into chunks, and stores embeddings in **Pinecone vector DB**.
-  - Uses **HuggingFace embeddings** for semantic search.
-  - RAG pipeline with **GPT-4o** to answer questions concisely and accurately.
-  - Dynamically adds new knowledge to the database. 
+`Java 17` • `Spring Boot 3` • `Spring Cloud` • `MongoDB`  
+`RabbitMQ` • `Keycloak` • `Docker` • `React 19` • `Redux Toolkit`
+
+🔗 GitHub  
+https://github.com/malayathigeetha/aurafit
+
+---
+
+### 🧠 Veritas AI – Verification-as-a-Service (Fact Checker AI + Agents + RAG)
+
+Multi-agent fact verification system that checks fake news, claims, and content reliability using LLMs + Deep Learning.
+
+🔹 **Features**
+
+- Claim parsing, trust analysis, and source scoring
+- Multi-agent architecture with **CrewAI + LangGraph**
+- **RAG + Vector DB** powered real-time fact checking
+- Supports images, text, URLs, and documents
+- Fake/real evidence ranking and report generation
+
+🔧 **Tech**
+
+`Python` • `LangGraph` • `FastAPI` • `React.js` • `Deep Learning`
+
+---
+
+### 🏥 Hospital Management System
+
+Java + JDBC + Swing based desktop application to manage hospital workflows.
+
+---
+
+### 📋 Project Management System
+
+Web-based task and team management portal using **Java Servlets, JSP, and MySQL**.
+
+---
+
+### 🚆 Train Reservation System (Frontend Only)
+
+Responsive frontend app using `React`, `TailwindCSS`, and `localStorage` to simulate train booking, search, and ticket confirmation.
+
+---
+
+### 💼 Job Portal Management System
+
+Full-stack web app using **React + Spring Boot + MySQL** to manage job listings, applications, secure OTP login, and role-based dashboards.
+
+---
+
+### 🤖 CryptoGPT – AI Chatbot for Crypto Market
+
+AI-powered chatbot built with `Next.js`, `Spring Boot`, `Particles`, and `Gemini API` for real-time cryptocurrency insights.
+
+---
+
+### 🍽️ Cook Share – Recipe Sharing Platform
+
+Social recipe-sharing app developed with `React + Vite`, `JavaScript`, `Spring Boot`, and `MySQL`.
+
+---
+
+### 🏎️ GoGearStack – Car Rental Web App (Full Stack)
+
+Full-stack car rental platform built with `React`, `TailwindCSS`, `Node.js`, and `Express.js`.
+
+Backend powered by `MongoDB` with secure JWT authentication.
+
+🔗 Live Demo  
+https://car-rental-frontend-one-mu.vercel.app
+
+🔗 GitHub  
+https://github.com/malayathigeetha/GoGearStack
+
+---
+
+### 🛒 GreatKart – Ecommerce Platform
+
+Full-stack Ecommerce project built with **Django + React.js + Bootstrap**.
+
+🔹 **Features**
+
+- Product browsing
+- Cart management
+- User authentication
+- Order handling
+- Secure **PayPal payment integration**
+
+---
+
+### 🩺 Medical Chatbot (RAG + GPT-4o)
+
+AI-powered medical question-answering system using PDFs as knowledge sources.
+
+🔹 **Features**
+
+- Loads medical PDFs and stores embeddings in **Pinecone vector DB**
+- Uses **HuggingFace embeddings** for semantic search
+- RAG pipeline with **GPT-4o**
+- Dynamically adds new knowledge to the database
 
 ---
 
