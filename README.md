@@ -28,12 +28,27 @@ Let's connect and explore together..
 
 ## ✅ Projects I've Built
 
--🦷 **AI Dental Appointment System — Multi-Agent AI** ⭐ 
-  Sophisticated conversational AI orchestrating multiple specialized agents to manage clinical schedules through natural language .
-🔹 **Core Features** :  
-  `Multi-Agent Orchestration (LangGraph) `| `Intent-based Supervisor Routing` | `Real-time Booking & Rescheduling Slot Availability Logic` | `Automated Cancellations` | `Patient History Lookup`
-🔹 **Tech Stack**: `Python`, `LangGraph`, `LangChain`, `Grok-4 (xAI)`, `Pandas`, `Pydantic` 
-🔗 GitHub: https://github.com/MalayathiGeetha/DentalAppointment_System_Using_agents
+### 🦷 AI Dental Appointment System — Multi-Agent AI ⭐
+
+Sophisticated conversational AI orchestrating **multiple specialized agents** to manage clinical schedules through natural language.
+
+🔹 **Core Features**
+
+- `Multi-Agent Orchestration (LangGraph)`
+- `Intent-based Supervisor Routing`
+- `Real-time Booking & Rescheduling`
+- `Slot Availability Logic`
+- `Automated Cancellations`
+- `Patient History Lookup`
+
+🔹 **Tech Stack**
+
+`Python` • `LangGraph` • `LangChain` • `Grok-4 (xAI)` • `Pandas` • `Pydantic`
+
+🔗 GitHub  
+https://github.com/MalayathiGeetha/DentalAppointment_System_Using_agents
+
+---
 
 - ✨ **MailMind-AI – AI Email Assistant** ⭐  
   **Production-ready SaaS** with **13 AI features** - Generate, analyze, send real emails with multi-AI (Gemini ⚡ + Ollama 🆓).  
