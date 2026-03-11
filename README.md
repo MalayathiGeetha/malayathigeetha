@@ -28,7 +28,7 @@ Let's connect and explore together..
 
 ## ✅ Projects I've Built
 
-### 🦷 AI Dental Appointment System — Multi-Agent AI ⭐
+- ### 🦷 AI Dental Appointment System — Multi-Agent AI ⭐
 
 Sophisticated conversational AI orchestrating **multiple specialized agents** to manage clinical schedules through natural language.
 
